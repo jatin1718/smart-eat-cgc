@@ -47,12 +47,6 @@ A centralized dashboard to switch between different campus outlets:
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your Dashboard and AI Popup here)*
-
----
-
 ## 🏃‍♂️ How to Run Locally
 
 1. **Clone the Repository**
